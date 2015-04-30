@@ -11,7 +11,7 @@ http://garemixsaintpaul.grandlyon.com/index.php/les-aboyeurs/
 
 ## Matériel électronique requis
 
-  * 1 carte Arduino (testé avec Uno) et son câble USB
+  * 1 carte Arduino (testé avec `Uno`) et son câble USB
   * 1 Breadboard
   * 2 capteurs de lumière
   * 2 résistances 220Ω
@@ -23,8 +23,8 @@ http://garemixsaintpaul.grandlyon.com/index.php/les-aboyeurs/
 ## Configuration & software requis
 
   * Ordinateur suffisamment puissant (testé avec un MacBook Pro 8Go de RAM)
-  * Processing (testé avec 2.2.1)
-  * Arduino (testé avec 1.0.6)
+  * Processing (testé avec `2.2.1`)
+  * Arduino (testé avec `1.0.6`)
   * Vidéo-projecteur (ou écran)
   * Câble VGA ou HDMI
   * Multiprises, rallonges
