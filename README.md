@@ -1,5 +1,5 @@
 # Gare aux vélos !
-# Projet Gare Remix 
+Projet Gare Remix 2015
 
 ## Le dispositif
 
