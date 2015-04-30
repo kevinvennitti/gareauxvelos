@@ -17,7 +17,6 @@ http://garemixsaintpaul.grandlyon.com/index.php/les-aboyeurs/
   * 2 résistances 220Ω
   * 6 petits câbles électriques (pour être confortable sur la Breadboard)
   * 4 longs câbles électriques (pour relier les capteurs des vélos à la carte Arduino)
-  
   * Fer à souder, étain, scotch isolant
 
 
