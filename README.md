@@ -93,9 +93,15 @@ Vérifier que la source de lumière soit bien en face du capteur.
 
 ### ➜ Le cache
 
-Enfin, il suffit de rajouter un cache sur la moitié de la roue. Pour information, j'ai tenté de cacher un rayon sur deux (avec donc 8-9 petits caches et 8-9 zones non cachées), mais à moyenne vitesse, le capteur ne distinguait plus assez bien le lumineux du sombre (gris optique, je suppose) : le demi-cache fonctionne très bien.
+Enfin, il suffit de rajouter un cache sur la moitié de la roue. Pour information, j'ai tenté de cacher un rayon sur deux (avec donc 8-9 petits caches et 8-9 zones non cachées), mais à moyenne vitesse, le capteur ne distinguait plus assez bien le lumineux du sombre (gris optique, je suppose) : le demi-cache fonctionne très bien. Si vous n'avez rien à disposition, un sac poubelle + scotch fait l'affaire.
 
 ![Principe](Ressources/Cache.png)
+
+![Principe](Ressources/Cache_Profil.png)
+
+Lors de l'événement, seule une bande a été recouverte, suffisamment large pour cacher le capteur de la source de lumière. La largeur d'un gros ruban adhésif a suffit.
+
+![Principe](Ressources/Cache_Profil2.png)
 
 Petit rappel du principe : le cache interceptera la lumière, modifiant ainsi la valeur du capteur de lumière.
 
