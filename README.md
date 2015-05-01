@@ -32,3 +32,7 @@ http://garemixsaintpaul.grandlyon.com/index.php/les-aboyeurs/
   * Multiprises, rallonges
   * 2 néons / lampes de poche / sources lumineuses
   * Scotch
+
+## Schéma Arduino
+
+![Schéma Arduino](Arduino/Schema.png)
