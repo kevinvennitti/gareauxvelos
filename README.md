@@ -63,13 +63,29 @@ Le capteur de lumière capte un grand angle de lumière, et il est difficile de 
 
 ![How To - Light Sensor](Ressources/HowTo_LightSensor4.png)
 
-➜ 5 / Avec le tube, le capteur capte beaucoup moins de luminosité (rouge). Centrer le capteur dans le tube, et vérifier les valeurs reçues depuis la console de Arduino pour calibrer au mieux la position du capteur. Lors de l'événement, j'ai laissé 5cm en prolongement du capteur pour obtenir un noir absolu `0` même lorsque le cache se trouvait à 10cm de l'extrémité du tube.
+➜ 5 / Avec le tube, le capteur capte beaucoup moins de luminosité (rouge). Centrer le capteur dans le tube, et vérifier les valeurs reçues depuis la console de Arduino pour calibrer au mieux la position du capteur. Lors de l'événement, j'ai laissé 5cm en prolongement du capteur pour obtenir un noir absolu `0` même lorsque le cache se trouvait à 2cm de l'extrémité du tube.
 
 ![How To - Light Sensor](Ressources/HowTo_LightSensor5.png)
 
 ➜ 6 / Enfin, plier à 90° le tube juste avant la tête du capteur afin de pouvoir fixer le tube à la fourche du vélo.
 
 ![How To - Light Sensor](Ressources/HowTo_LightSensor6.png)
+
+Maintenant, fixer le tube plié à la fourche dans la zone proche du pneu, là où une révolution de roue prendra un temps raisonnable. Veiller à bien diriger la tête du capteur vers l'intérieur de la roue, bien sûr. Si vous placez le capteur trop près de l'axe de rotation, le capteur distinguera beaucoup moins bien le "éclairé/caché" et vous risquez de toucher la chaîne du vélo.
+
+![Position Light Sensor](Ressources/PositionLightSensor_Profil.png)
+![Position Light Sensor](Ressources/PositionLightSensor.png)
+
+
+### ➜ La source de lumière
+
+Pour assurer un contraste suffisant entre le caché et l'éclairé, j'ai placé une source lumineuse en face du capteur de lumière, sur l'autre fourche. Ainsi, elle éblouit le capteur lorsqu'il n'y a pas le cache, et est dissimulée derrière le cache noir une moitié de tour de roue.
+
+![Position Light](Ressources/PositionLight.png)
+
+![Position Light](Ressources/PositionLight2.png)
+
+
 
 ## Schéma Arduino
 
