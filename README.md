@@ -10,9 +10,7 @@ Deux usagers de la gare grimpent sur ce dispositif détournant deux vélos plac�
 Archive du projet & photos :
 http://garemixsaintpaul.grandlyon.com/index.php/les-aboyeurs/
 
-## Note
-
-Ici est archivé la partie numérique / technique du dispositif, à vous d'entreprendre la réalisation des supports fixes des deux vélos et de l'espace de projection. ;)
+**Note** : Ici est archivé la partie numérique / technique du dispositif, à vous d'entreprendre la réalisation des supports fixes des deux vélos et de l'espace de projection. ;)
 
 
 ## Matériel électronique requis
