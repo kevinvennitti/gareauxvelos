@@ -108,9 +108,9 @@ Petit rappel du principe : le cache interceptera la lumière, modifiant ainsi la
 
 ### ➜ …et le reste
 
-Maintenant que vous avez équipé un vélo, répéter l'opération avec l'autre vélo (eh oui), puis reliez les fils électriques à la carte Arduino (schéma ci-dessous). Si vous inversez les capteurs, modifiez directement sur la Breadboard plutôt que de tout désinstaller.
+Maintenant que vous avez équipé un vélo, répéter l'opération avec l'autre vélo (eh oui), puis relier les fils électriques à la carte Arduino (schéma ci-dessous). Si vous inversez les capteurs, modifier directement sur la Breadboard plutôt que de tout désinstaller.
 
-Concernant le support des vélos, trouvez un moyen de fixer les vélos à une surface stable (par le guidon ou par la roue avant). Pour faire tourner la roue arrière, 2 rouleaux à pâtisserie détournés ont permis de simuler un sol et une contrainte réelle de pédalage. Le retour principal des joueurs en condition de test a été justement la difficulté à pédaler, car le poids de la personne sur les rouleaux rendaient pénible l'action de pédaler doucement. Dans ce cas, il faudrait expérimenter un support supplémentaire qui surélève légèrement la fourche arrière : les roues touchent donc les 2 rouleaux mais le poids de la personne est soutenu par ce support. Gare aux vélos v2 !
+Concernant le support des vélos, trouver un moyen de fixer les vélos à une surface stable (par le guidon ou par la roue avant). Pour faire tourner la roue arrière, 2 rouleaux à pâtisserie détournés ont permis de simuler un sol et une contrainte réelle de pédalage. Le retour principal des joueurs en condition de test a été justement la difficulté à pédaler, car le poids de la personne sur les rouleaux rendait pénible l'action de pédaler doucement. Dans ce cas, il faudrait expérimenter un support supplémentaire qui surélève légèrement la fourche arrière : les roues toucheraient donc les 2 rouleaux mais le poids de la personne serait soutenu par ce support. Gare aux vélos v2 !
 
 N'oubliez pas de téléverser le code Arduino sur la carte, vérifiez les valeurs reçues en lumière et en caché pour étalonner le code Processing. 
 
@@ -118,7 +118,7 @@ N'oubliez pas de téléverser le code Arduino sur la carte, vérifiez les valeur
 
 ## Schéma Arduino
 
-Vous pouvez économiser des fils ou la Breadboard bien sûr.
+Vous pouvez économiser des fils et/ou la Breadboard bien sûr.
 
 ![Schéma Arduino](Arduino/Schema.png)
 
