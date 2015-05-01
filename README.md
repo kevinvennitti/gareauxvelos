@@ -59,6 +59,18 @@ Le capteur de lumière capte un grand angle de lumière, et il est difficile de 
 
 ![How To - Light Sensor](Ressources/HowTo_LightSensor3.png)
 
+➜ 4 / Sans le tube, le capteur capte trop de luminosité (rouge). Insérer le capteur dans le tube.
+
+![How To - Light Sensor](Ressources/HowTo_LightSensor4.png)
+
+➜ 5 / Avec le tube, le capteur capte beaucoup moins de luminosité (rouge). Centrer le capteur dans le tube, et vérifier les valeurs reçues depuis la console de Arduino pour calibrer au mieux la position du capteur. Lors de l'événement, j'ai laissé 5cm en prolongement du capteur pour obtenir un noir absolu `0` même lorsque le cache se trouvait à 10cm de l'extrémité du tube.
+
+![How To - Light Sensor](Ressources/HowTo_LightSensor5.png)
+
+➜ 6 / Enfin, plier à 90° le tube juste avant la tête du capteur afin de pouvoir fixer le tube à la fourche du vélo.
+
+![How To - Light Sensor](Ressources/HowTo_LightSensor6.png)
+
 ## Schéma Arduino
 
 ![Schéma Arduino](Arduino/Schema.png)
