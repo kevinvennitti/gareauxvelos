@@ -1,5 +1,5 @@
 # Gare aux vélos !
-Projet Gare Remix 2015
+Projet Gare Remix 2015 réalisé par Caroline Bourdeau, Cécile Meauxsoone, Élodie Ginest, Philippe Cazeneuve, Manuel Duchamp, Christophe Abrassart & Kévin Vennitti
 
 ![Gare aux vélos](http://garemixsaintpaul.grandlyon.com/wp-content/uploads/2015/04/GR_velorution.jpg)
 
@@ -128,3 +128,4 @@ Vous pouvez économiser des fils ou la Breadboard bien sûr.
 ## One more thing
 
 Si vous réutilisez le code Processing, Arduino ou ce DIY décrit, n'hésitez pas à nous envoyer un mail pour qu'on apprécie votre travail ! :)
+À très vite : kevin.vennitti@gmail.com
