@@ -39,8 +39,11 @@ Ici est archivé la partie numérique / technique du dispositif, à vous d'entre
 
 ## Montage sur les vélos
 
-Pour récupérer la vitesse relative de chaque vélo, il faut placer un capteur de lumière et une source lumineuse sur la fourche de la roue arrière, ainsi qu'un cache noir sur la moitié de la même roue. Le demi-cache va se placer entre le capteur de lumière et la source lumineuse "une fois sur deux" pour ainsi modifier la valeur numérique envoyée par le capteur de lumière au jeu ; le programme déduit ensuite la vitesse de la roue selon le nombre de "lumière/noir" sur 20 occurrences. Ci-dessous pas-à-pas les étapes de réalisation au cours de l'événement.
+Pour récupérer la vitesse relative de chaque vélo, il faut placer un capteur de lumière et une source lumineuse sur la fourche de la roue arrière, ainsi qu'un cache noir sur la moitié de la même roue. Le demi-cache va se placer entre le capteur de lumière et la source lumineuse "une fois sur deux" pour ainsi modifier la valeur numérique envoyée par le capteur de lumière au jeu ; le programme déduit ensuite la vitesse de la roue selon le nombre de "lumière/noir" sur 20 occurrences. 
 
+![Principe](Ressources/Principe.gif)
+
+Ci-dessous pas-à-pas les étapes de réalisation au cours de l'événement.
 **Note** : ce n'est pas systématiquement la méthode optimale, mais celle-ci a fonctionné. ;) 
 
 ### ➜ Le capteur de lumière
@@ -83,8 +86,20 @@ Pour assurer un contraste suffisant entre le caché et l'éclairé, j'ai placé 
 
 ![Position Light](Ressources/PositionLight.png)
 
+Vérifier que la source de lumière soit bien en face du capteur.
+
 ![Position Light](Ressources/PositionLight2.png)
 
+
+### ➜ Le cache
+
+Enfin, il suffit de rajouter un cache sur la moitié de la roue. Pour information, j'ai tenté de cacher un rayon sur deux (avec donc 8-9 petits caches et 8-9 zones non cachées), mais à moyenne vitesse, le capteur ne distinguait plus assez bien le lumineux du sombre (gris optique, je suppose) : le demi-cache fonctionne très bien.
+
+![Principe](Ressources/Cache.png)
+
+Petit rappel du principe : le cache interceptera la lumière, modifiant ainsi la valeur du capteur de lumière.
+
+![Principe](Ressources/Principe.gif)
 
 
 ## Schéma Arduino
