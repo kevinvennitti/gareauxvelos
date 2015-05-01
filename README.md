@@ -129,3 +129,5 @@ Vous pouvez économiser des fils ou la Breadboard bien sûr.
 
 Si vous réutilisez le code Processing, Arduino ou ce DIY décrit, n'hésitez pas à nous envoyer un mail pour qu'on apprécie votre travail ! :)
 À très vite : kevin.vennitti@gmail.com
+
+![Team Gare aux vélos](Ressources/Team.jpg)
